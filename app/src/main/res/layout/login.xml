@@ -1,0 +1,46 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+
+<TextView
+    android:id="@+id/text"
+    android:textSize="20dp"
+    android:layout_above="@id/editText"
+    android:layout_centerInParent="true"
+    android:text="Log In"
+    android:textColor="#000"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="50dp"/>
+
+<Button
+    android:textColor="#FFFFFF"
+    android:id="@+id/ButtonId"
+    android:layout_centerInParent="true"
+    android:layout_below="@id/editText"
+    android:background="#16B5A3"
+    android:text="Send Code"
+    android:layout_width="300dp"
+    android:layout_height="25dp"
+    android:layout_marginTop="20dp"/>
+
+<EditText
+    android:id="@+id/editText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:text="Cell phone number"
+    android:textColor="	#808080"
+    android:width="300dp"
+    android:layout_centerInParent="true"
+    android:layout_marginTop="20dp"/>
+
+
+</RelativeLayout>
