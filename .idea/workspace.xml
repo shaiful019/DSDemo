@@ -7,13 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc6dc20e-bbcb-4022-a2c5-f84396a96956" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -48,7 +62,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MLKIT/mlkit/android/vision-quickstart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -145,9 +159,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="btn_ripple_effect" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="311" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1600667067523">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="362" y="183" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1601976139584">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="362" y="183" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1601976139584" />
     <state x="543" y="311" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1600667067523" />
     <state x="809" y="368" width="292" height="384" key="AndroidCreateXmlResourceDialog" timestamp="1600669898165">
       <screen x="0" y="27" width="1920" height="1053" />
@@ -157,9 +172,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="566" y="127" width="777" height="859" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1600670280750" />
-    <state x="738" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600681070405">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="492" y="185" width="328" height="318" key="FileChooserDialogImpl" timestamp="1601969419110">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="492" y="185" width="328" height="318" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601969419110" />
     <state x="738" y="314" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1600681070405" />
     <state x="813" y="448" key="Github.ShareDialog" timestamp="1600666436749">
       <screen x="0" y="27" width="1920" height="1053" />
@@ -169,13 +185,34 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="715" y="239" width="479" height="635" key="Github.UntrackedFilesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1600666486392" />
-    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1600666292069">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1200" height="147" key="GridCell.Tab.0.bottom" timestamp="1601976249928">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601976249928" />
+    <state width="1200" height="147" key="GridCell.Tab.0.center" timestamp="1601976249928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601976249928" />
+    <state width="1200" height="147" key="GridCell.Tab.0.left" timestamp="1601976249928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601976249928" />
+    <state width="1200" height="147" key="GridCell.Tab.0.right" timestamp="1601976249928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601976249928" />
+    <state x="299" y="0" width="914" height="680" key="SettingsEditor" timestamp="1601970312788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601970312788" />
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1600666292069" />
     <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600670291949">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1600670291949" />
+    <state x="110" y="120" width="1060" height="440" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601975952124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="110" y="120" width="1060" height="440" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1601975952124" />
   </component>
 </project>
